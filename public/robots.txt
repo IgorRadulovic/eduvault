@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+Disallow: /admin
+Disallow: /checkout
+Disallow: /my-courses
+Disallow: /cart
+
+Sitemap: https://eduvault.com/sitemap.xml
